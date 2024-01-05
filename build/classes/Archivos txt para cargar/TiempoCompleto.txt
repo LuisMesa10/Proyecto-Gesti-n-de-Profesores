@@ -1,0 +1,12 @@
+1234567890,Juan Pérez,Masculino,Ingeniería,Doctorado,6,15,15/05/1980,Tiempo Completo
+3456789012,Carlos Rodríguez,Masculino,Ciencias Básicas,Especialista,2,5,10/02/1990,Tiempo Completo
+6789012345,Ana López,Femenino,Administración,Doctorado,5,12,30/03/1982,Tiempo Completo
+9876543210,María Gómez,Femenino,Deportes,Doctorado,7,18,08/11/1977,Tiempo Completo
+5678901234,Diana Ramírez,Femenino,Idiomas,Especialista,4,10,22/06/1988,Tiempo Completo
+4321098765,Luis Soto,Masculino,Ciencias Básicas,Pregrado,3,8,17/04/1993,Tiempo Completo
+2109876543,Miguel Torres,Masculino,Comunicación,Maestría,8,20,11/09/1980,Tiempo Completo
+8765432100,Andrea Silva,Femenino,Ingeniería,Especialista,4,10,05/03/1992,Tiempo Completo
+3456781234,Pedro Pérez,Masculino,Administración,Doctorado,6,15,14/12/1985,Tiempo Completo
+6789123456,María López,Femenino,Idiomas,Doctorado,7,18,29/01/1975,Tiempo Completo
+1002030405,Reinaldo Gómez,Masculino,Idiomas,Pregrado,2,12,02/11/1980,Tiempo Completo
+3928123844,Heraldo Tropa,Masculino,Ciencias Básicas,Maestría,7,9,06/02/1999,Tiempo Completo

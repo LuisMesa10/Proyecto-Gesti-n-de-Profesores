@@ -1,0 +1,12 @@
+4567890123,Laura Martínez,Femenino,Deportes,Pregrado,3,8,25/09/1985,Ocasional
+5678901234,Daniel Sánchez,Masculino,Idiomas,Maestría,1,3,05/12/1995,Ocasional
+7890123456,Andrés Mendoza,Masculino,Comunicación,Especialista,7,18,12/07/1978,Ocasional
+1234987650,Carmen Ríos,Femenino,Ingeniería,Especialista,5,12,16/03/1990,Ocasional
+5432109876,Mario Jiménez,Masculino,Administración,Pregrado,4,10,07/08/1982,Ocasional
+8765432101,Paula Vargas,Femenino,Idiomas,Doctorado,2,5,02/04/1995,Ocasional
+2345678909,Carlos Martínez,Masculino,Ciencias Básicas,Doctorado,4,10,19/10/1981,Ocasional
+9012345678,Ana Rodríguez,Femenino,Comunicación,Especialista,6,15,21/01/1987,Ocasional
+4321098765,Luis Soto,Masculino,Ciencias Básicas,Pregrado,3,8,17/04/1993,Ocasional
+5678901234,Diana Ramírez,Femenino,Idiomas,Especialista,4,10,22/06/1988,Ocasional
+1002030405,Reinaldo Gómez,Masculino,Idiomas,Pregrado,2,12,02/11/1980,Ocasional
+3928123844,Heraldo Tropa,Masculino,Ciencias Básicas,Maestría,7,9,06/02/1999,Ocasional

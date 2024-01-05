@@ -1,0 +1,14 @@
+1234567890,Juan Pérez,Masculino,Ingeniería,Doctorado,6,15,15/05/1980,Cátedra
+3456789012,Carlos Rodríguez,Masculino,Ciencias Básicas,Especialista,2,5,10/02/1990,Cátedra
+2345678901,María González,Femenino,Comunicación,Maestría,4,10,20/11/1975,Cátedra
+8901234567,Julia Martínez,Femenino,Deportes,Especialista,3,8,03/09/1986,Cátedra
+7890123456,Pablo López,Masculino,Administración,Pregrado,5,12,09/08/1991,Cátedra
+5678901235,Andrés Soto,Masculino,Idiomas,Especialista,7,18,14/06/1976,Cátedra
+3456781234,Lucía Torres,Femenino,Ciencias Básicas,Doctorado,5,12,28/10/1988,Cátedra
+9012345678,Ana Rodríguez,Femenino,Comunicación,Especialista,6,15,21/01/1987,Cátedra
+4321098766,Javier García,Masculino,Administración,Maestría,4,10,18/03/1983,Cátedra
+8765432109,Carlos Pérez,Masculino,Ingeniería,Especialista,4,10,21/02/1977,Cátedra
+5432109876,Mario Jiménez,Masculino,Administración,Pregrado,4,10,07/08/1982,Cátedra
+3456781234,Pedro Pérez,Masculino,Administración,Doctorado,6,15,14/12/1985,Cátedra
+1002030405,Reinaldo Gómez,Masculino,Idiomas,Pregrado,2,12,02/11/1980,Cátedra
+3928123844,Heraldo Tropa,Masculino,Ciencias Básicas,Maestría,7,9,06/02/1999,Cátedra
